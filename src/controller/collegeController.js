@@ -1,4 +1,3 @@
-const { default: mongoose } = require('mongoose');
 const collegeModel = require('../model/collegeModel');
 const internModel = require('../model/internModel');
 const {validator} = require('../utils')
@@ -89,7 +88,4 @@ const getCollegeDetails = async function(req,res){
 
 
 
-module.exports = {
-    createCollege,
-    getCollegeDetails
-}
+module.exports = { createCollege, getCollegeDetails }
