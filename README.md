@@ -1,6 +1,6 @@
 =======
-# Intern-Project-2 
-# Lithium
+# Intern_TO_Open
+This Project is realated Backend part of Intern Websites. Where the students apply for intern and jobs according to his or her skills. The students selected institutes and company with choice. This platform is related like Intershala, Naukri.com etc. Used  
 
 ## Open to Intern Project Requirement
 
